@@ -13,4 +13,6 @@ var a = 5
 
 a+=7
 
+let b = "Hi everyone Im losing my voice"
+
 print("A is now: \(a)")
