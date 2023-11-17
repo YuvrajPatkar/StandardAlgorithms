@@ -8,11 +8,25 @@
 import XCTest
 
 final class SortingTest: XCTestCase {
-
+    
     func testBubbleSortWithShuffled() {
         //arrange
         //act
         //assert
         XCTAssertTrue(true)
+    }
+    
+    
+    func testMergeSortWithShuffled() {
+        //arrange
+        //act
+        //assert
+        
+    }
+    func testBinarySortWithShuffled(){
+            //arrange
+            //act
+            //assert
+            
     }
 }
